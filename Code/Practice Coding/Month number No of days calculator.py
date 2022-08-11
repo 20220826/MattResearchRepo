@@ -6,10 +6,10 @@
 
 month = (input("Input the name of the Month:"))
 
-if month == "February":
+if month in "February":
     print ("No. of days: 28/29")
-elif month == ("April", "June", "September", "November"):
+elif month in ("April", "June", "September", "November"):
     print ("No. of days: 30")
-elif month == ("January","March","May", "July", "August", "October", "December"):
+elif month in ("January","March","May", "July", "August", "October", "December"):
     print ("No. of days is: 31")
 else: print ("Please enter a month")
