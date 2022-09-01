@@ -4,4 +4,4 @@
 
 You can find your reflective journal here [Reflectdoc.md](./Reflections/Reflectdoc.md)
 
-You can find collection of personal code I have worked on can be found here [practice code](./Code/Practice Code)
+You can find collection of personal code I have worked on can be found here [Code](../Code/Practice Code)
