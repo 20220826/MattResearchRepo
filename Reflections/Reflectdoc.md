@@ -118,8 +118,6 @@ In simple words, we can define polymorphism as the ability of a message to be di
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
-### What is an MVP? How would you describe it to a group of 6 year olds?
-
 ### What is pair programming?
 
 Pair programming is an Agile software development technique originating from Extreme programming (XP) in which two developers team together on one computer. The two people work together to design, code and test user stories.
