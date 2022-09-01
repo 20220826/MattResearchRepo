@@ -3,6 +3,7 @@
 ## Week1
 
 ### What is Scratch?
+coding language with a simple visual interface that allows people to create digital stories, games, and animations.
 
 ## Week 2
 Github/Repository Creation
@@ -17,29 +18,22 @@ Via Wikipedia: A minimum viable product has just enough core features to effecti
 Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
  javascript vs python
- in vs ==
- isdigit() vs is numberic
+
  
 ## Week 4
 ### What is Art? What is Programming?
 
 Video-graph instructions
-
 Gather a group of people, each with a mobile phone. 
-
 Each person must start recording a video at the same time.
-
 Each person should frame one other person in their video. 
-
 The recording ends when one of the people leave one of the frames. 
-
 Watch the videos together.
-
 Each person should place their phone on the floor or table and press play, and then step back
-
 Option to record the videos playing together
 
-Reflective questions: How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
+Reflective questions: 
+## How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
 
 *
 Confused about what a graph is? Check out this linked in course on graph and data science fundamentals graph in business today
@@ -57,105 +51,114 @@ Still feeling lost? Kei te pai. We are all in this together. We have 2 full week
 So make sure that you reflect on your feelings such a as "I feel lost after this class." write it up. What did you expect to be different? What would help to orient you? Can you see some benefit in the openness of this class format? What do you plan to do for your project. It's ok for it to change, you don't need to be consistent from week to week. Perhaps after a few weeks, you will feel differently about today's session. This type of experience is good. 
 *
 ## Week 5 
-agile rituals
-Marshmallow challenge
+### Agile rituals
+
 ### What did you learn out of the Marshmallow Challenge? 
+I don't think I learned anything concrete from this challenge. I assume it had something to do with the Agile method of Software Development, but given fellow students lack of following the challenge all the way as instructed, and no follow up or debrief from anyone in any capacity, The Marshmallow Challenge did not succeed in its intended purpose. 
 
 ### What is the hardest problem you have solved so far?
+Getting the Python Koans to function in Visual Studio Code.
 
 ## Week 6
 
 ## Misc.
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
+I have not established a habit of regular breaks from the screen while I am studying. When I do step away from the screen, I move and stretch my body a bit. 
 
 ### What is Timeboxing? Have you heard of it before? Will you use it?
-The purpose of timeboxing is to ensure that you use your time productively. To use this technique, you assign a specific deadline to each task. This is known as a timebox and when it's finished, you analyze your progress and move on to the next one.
+The purpose of timeboxing is to ensure that you use your time productively. To use this technique, you assign a specific deadline to each task. This is known as a timebox and when it's finished, you analyze your progress and move on to the next one. I used this technique in my last course of study, although I wasn't aware of the term, it's just what made sense to me. 
 
 ### On a a 0-5 scale, how confident are you with each of the assignments?
+2
 
 ### What are of you proud of up to this point in the course?
+Doing some Python coding and succeeding in completing the following challenges with little prior experience with Python before. 
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
+I'm a visual/kinestetic learner. I need to see examples of what I need to do, and/or just get stuck in to figure things out. Trial & error is a prominent strategy for me. While these typically work out, it can be very time consuming. Timeboxing has been helpful in my studies with this. I need to have set expectations for the time I will work towards a designated task without feeling the need to move on to other projects, so that I have time to go through the trial & error process without becoming overwhelmed by workload. 
+
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
+Read "GitHub for Dummies" NOW.
 
 ### Have you developed a habit of exploring?
-
-### Have you meditated before?
+No. I have a hard time exploring without an clear end point or goal. 
 
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
+Video game. Swimming. Practice, persistence, commitment.
 
 ### Do you consider yourself a developer yet?
+No. If anything at this point I think being a software developer is not for me. 
 
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+Yes I value creativity as a value itself. One of the biggest things I have struggled to reconcile in this course is using creativity without having the ability to to execute it or having it in the context of coding/software development. 
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
-
-### Have you had a fight response to technology? What does it feel like? How did you overcome this?
+10 open tabs, 9 study related 1 not.
 
 ### What is an IDE?
-Programmers often make use of an IDE software which stands for Integrated Development Environment. An IDE contains various tools such as a source code editor, a compiler and/or interpreter and a debugger that help a computer programmer write computer programs. The source code editor is where you write your instructions. The compiler/interpreter then takes these instructions and converts them to a language that the computer can understand – binary language. The first programmers used to have to enter the binary codes themselves. This was known as machine code programming and is incredibly difficult to understand. The compiler/interpreter makes life a lot easier by taking the instructions written in C# or Python for example and converting them to binary so that the computer can understand what you want it to do. Take the example of an English person talking to a French person. If they both only knew their own languages, they would need someone else to interpret/translate any communication that takes place between them. The compiler/interpreter is just like that.
-
-### Did you have any blocks during this challenge? How did you overcome them?
+Integrated Development Environment. An IDE contains tools such as a source code editor, a compiler and/or interpreter and a debugger that help a programmer write computer programs. 
+The source code editor is where you write your instructions. The compiler/interpreter then takes these instructions and converts them to binary language. The compiler/interpreter takes instructions written in C# or Python for example and converts them to binar
 
 ### So far, what was the hardest moment of this course for you?
+Doing and understanding the Python Koans form set up to actual solving the tests.
 
 ### What is OOP?
-The technique that evolved is called Object-Oriented Programming, or OOP. Instead of being a list of instructions, programs now acted as models of the problems they were solving.
+Object-Oriented Programming, or OOP. Instead of being a list of instructions, OOP programs act as models of the problems they solve.
 
-Taking this Object-Oriented approach, computer programs became much more adaptable to their environment. Instead of situations where a single large executable block of code is used, objects that communicate with each other by sending messages back and forth were used. One of the many advantages to this way of programming was that programs became easier to understand, because they could be thought of as written in more natural language.
-
-As you work through this course, you will be introduced to the Python language, which although object-oriented is ideal for writing procedural code
+Taking this Object-Oriented approach, computer programs became much more adaptable to their environment. Instead of situations where a single large executable block of code is used, objects that communicate with each other by sending messages back and forth were used. One of the many advantages to this way of programming was that programs became easier to understand, because they could be thought of as written in more natural language. In this course we use Python, which is object-oriented as well as ideal for writing procedural code.
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
+Yes, its rather tedious but it has its purpose.
+
 ### Which parts of the work did you find tedious?
+
+Reading large blocks or text is not my favoured way to intake information but I also understand it important to knowing what I should know for this course.
 
 ### What is polymorphism?
 
-In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form. A real-life example of polymorphism is a person who at the same time can have different characteristics. Like a man at the same time is a father, a husband and an employee.
+Polymorphism is the ability of a message to be displayed in more than one form. An example of polymorphism child who simultaneously is a daughter, a sister, a student and more.
 
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
+I do not think in words, I don’t have an inner monologue. While I can be self critical, it is not a voice in my head like this. I believe there are areas I need to improve and areas where I am succeeding. I don’t look to believe or not believe an “inner voice” as a concept, as my own emotions do not necessarily reflect reality. 
+
 ### What is pair programming?
 
-Pair programming is an Agile software development technique originating from Extreme programming (XP) in which two developers team together on one computer. The two people work together to design, code and test user stories.
+Pair programming is an Agile software development technique where two developers team up together on one computer to design, code and test user stories.
 
 ### What are you looking forward to learning about programming?
+The creative element of putting together a programme that I can think of and develop myself instead of parameters dictated by someone else. 
 
 ### What is conscious listening?
-
-What is conscious listening? Conscious listening is the act of being intentionally present during communication between yourself and another while being aware of your own and the other's feelings and needs.
+Conscious listening is being very deliberate and present during communication between yourself and others whike considering other's feelings and needsa swell as your own.
 
 ### What is a variable?
 
-When working with applications, you store information in variables. A variable is a kind of storage box. Whenever you want to work with the information, you access it using the variable. If you have new information you want to store, you put it in a variable. Changing information means accessing the variable first and then storing the new value in the variable. Just as you store things in boxes in the real world, so you store things in variables (a kind of storage box) when working with applications. Each variable stores just one piece of information.
-
-Using this technique makes it easy to find the particular piece of information you need — unlike in your closet, where things could be hidden. Most applications rely heavily on variables to make working with information easier.
-
-Take real life for example. People tend to store things in the wrong sort of box. For example, you might find a pair of shoes in a garment bag and a supply of pens in a shoe box. However, programming languages like to be neat. As a result, you find numbers stored in one sort of variable and text stored in an entirely different kind of variable. Yes, you use variables in both cases, but the variable is designed to store a particular kind of information.
-
-Using specialised variables makes it possible to work with the information inside in particular ways. You don’t need to worry about the details just yet — just keep in mind that each kind of information is stored in a special kind of variable, making it easier for the programmer to follow and ensuring the information remains safe. However, computers don’t actually know about information types. All that the computer knows about are 0s and 1s. At a higher level, computers do work with numbers, but that’s the extent of what computers do. Numbers, letters, dates, times, and any other kind of information you can think about all come down to 0s and 1s in the computer system. 
+IN programming information is stored in variables. The information is accessed by using the variable. Changing information means accessing the variable first and then storing the new value in the variable. Just as you store things in boxes in the real world, so you store things in variables (a kind of storage box) when working with applications. Each variable stores just one piece of information.
 
 ### What programming languages are you interested in learning? Why?
+Python because of its commonality and broad use and Javascript, because of previous experience with it and being the most difficult amongst the main languages of web development.
 
 ### What is something kind that someone has done for you?
+My parents contributed towards my mortgage.
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
+Programming is the process of designing a set of instructions that tell a computer how to execute a task.
 
 ### Which parts of this course made you feel doubtful of your own innate ability?
+GitHub. I don't understand the benefits of it and it makes me question whether I am cut out for software development. It strikes me as basically an over complicated text document which makes me wonder if I'm misunderstanding the actual point and purpose. 
 
 ### What is a fixed mindset?
-
-In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort.”
+A fixed mindset is when someone believes their qualities such as intelligence are fixed traits that cannot and do not change. They do not recognise that they can develop their traits and believe that talent (regardless of effort) creates success.
 
 ### What is something kind you have done for someone else?
-
-### Have you done mindfulness or attention training before?
+I cancelled plans with a friend when my wife messaged saying she was having a hard day at work and took care of the chores so we could just enjoy some time to relax together.
 
 ### Have you developed a habit of persevering?
-
+Yes. I consider myself a “grinder”. I will work away at something, even if it is tedious, boring, or frustrating, until it is done.
 
 
 
