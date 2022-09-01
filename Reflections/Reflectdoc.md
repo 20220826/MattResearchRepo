@@ -1,14 +1,19 @@
-###Reflections
-###Week1
-###Week 2
-###Week 3
+# Reflections
+
+## Week1
+
+## Week 2
+
+## Week 3
+### What is Python?
  javascript vs python
  in vs ==
  isdigit() vs is numberic
  
-###Week 4
+## Week 4
  Marshmallow challenge
- ###week 5 
+ 
+## Week 5 
 
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
@@ -21,10 +26,7 @@
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a describe a strategy for yourself. 
 
-
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
-
-### What is Python?
 
 ### Have you developed a habit of exploring?
 
