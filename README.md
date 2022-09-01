@@ -4,4 +4,4 @@
 
 You can find your reflective journal here [Reflectdoc.md](./Reflections/Reflectdoc.md)
 
-You can find collection of personal code I have worked on can be found here (.Coding/Practice Coding)
+You can find collection of personal code I have worked on can be found here https://github.com/20220826/MattResearchRepo/tree/main/Code/Practice%20Coding
