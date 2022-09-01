@@ -1,18 +1,18 @@
-#Reflections#
+#Reflections
 
-##Week1##
+##Week1
 
-##Week 2##
+##Week 2
 
-##Week 3##
+##Week 3
  javascript vs python
  in vs ==
  isdigit() vs is numberic
  
- ##Week 4##
+ ##Week 4
  Marshmallow challenge
  
- ##week 5 ##
+ ##week 5 
 
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
