@@ -5,16 +5,26 @@
 ## Week 2
 
 ## Week 3
+
 ### What is Python?
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
  javascript vs python
  in vs ==
  isdigit() vs is numberic
  
 ## Week 4
  Marshmallow challenge
- 
+### What did you learn out of the Marshmallow Challenge? 
+
 ## Week 5 
 
+### What is the hardest problem you have solved so far?
+
+## Week 6
+
+## Misc.
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 
@@ -43,14 +53,18 @@
 ### Have you had a fight response to technology? What does it feel like? How did you overcome this?
 
 ### What is an IDE?
-
-### What did you learn out of the Marshmallow Challenge?
+Programmers often make use of an IDE software which stands for Integrated Development Environment. An IDE contains various tools such as a source code editor, a compiler and/or interpreter and a debugger that help a computer programmer write computer programs. The source code editor is where you write your instructions. The compiler/interpreter then takes these instructions and converts them to a language that the computer can understand – binary language. The first programmers used to have to enter the binary codes themselves. This was known as machine code programming and is incredibly difficult to understand. The compiler/interpreter makes life a lot easier by taking the instructions written in C# or Python for example and converting them to binary so that the computer can understand what you want it to do. Take the example of an English person talking to a French person. If they both only knew their own languages, they would need someone else to interpret/translate any communication that takes place between them. The compiler/interpreter is just like that.
 
 ### Did you have any blocks during this challenge? How did you overcome them?
 
 ### So far, what was the hardest moment of this course for you?
 
 ### What is OOP?
+The technique that evolved is called Object-Oriented Programming, or OOP. Instead of being a list of instructions, programs now acted as models of the problems they were solving.
+
+Taking this Object-Oriented approach, computer programs became much more adaptable to their environment. Instead of situations where a single large executable block of code is used, objects that communicate with each other by sending messages back and forth were used. One of the many advantages to this way of programming was that programs became easier to understand, because they could be thought of as written in more natural language.
+
+As you work through this course, you will be introduced to the Python language, which although object-oriented is ideal for writing procedural code
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
@@ -58,19 +72,33 @@
 
 ### What is polymorphism?
 
+In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form. A real-life example of polymorphism is a person who at the same time can have different characteristics. Like a man at the same time is a father, a husband and an employee.
+
 ### Did you hear a self critical voice in your head throughout the process of learning during this last few weeks? What did it say to you? Do you believe what it said?
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 
-### What is the hardest problem you have solved so far?
+
 
 ### What is pair programming?
+
+Pair programming is an Agile software development technique originating from Extreme programming (XP) in which two developers team together on one computer. The two people work together to design, code and test user stories.
 
 ### What are you looking forward to learning about programming?
 
 ### What is conscious listening?
 
+What is conscious listening? Conscious listening is the act of being intentionally present during communication between yourself and another while being aware of your own and the other's feelings and needs.
+
 ### What is a variable?
+
+When working with applications, you store information in variables. A variable is a kind of storage box. Whenever you want to work with the information, you access it using the variable. If you have new information you want to store, you put it in a variable. Changing information means accessing the variable first and then storing the new value in the variable. Just as you store things in boxes in the real world, so you store things in variables (a kind of storage box) when working with applications. Each variable stores just one piece of information.
+
+Using this technique makes it easy to find the particular piece of information you need — unlike in your closet, where things could be hidden. Most applications rely heavily on variables to make working with information easier.
+
+Take real life for example. People tend to store things in the wrong sort of box. For example, you might find a pair of shoes in a garment bag and a supply of pens in a shoe box. However, programming languages like to be neat. As a result, you find numbers stored in one sort of variable and text stored in an entirely different kind of variable. Yes, you use variables in both cases, but the variable is designed to store a particular kind of information.
+
+Using specialised variables makes it possible to work with the information inside in particular ways. You don’t need to worry about the details just yet — just keep in mind that each kind of information is stored in a special kind of variable, making it easier for the programmer to follow and ensuring the information remains safe. However, computers don’t actually know about information types. All that the computer knows about are 0s and 1s. At a higher level, computers do work with numbers, but that’s the extent of what computers do. Numbers, letters, dates, times, and any other kind of information you can think about all come down to 0s and 1s in the computer system. 
 
 ### What programming languages are you interested in learning? Why?
 
@@ -81,6 +109,8 @@
 ### Which parts of this course made you feel doubtful of your own innate ability?
 
 ### What is a fixed mindset?
+
+In a fixed mindset, people believe their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort.”
 
 ### What is something kind you have done for someone else?
 
