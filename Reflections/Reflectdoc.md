@@ -3,10 +3,16 @@
 ## Week1
 
 ### What is Scratch?
-coding language with a simple visual interface that allows people to create digital stories, games, and animations.
+Scratch is a coding language with a simple visual interface that allows people to create digital stories, games, and animations. Example files found [here](./Code)
+
+Scratch is very similar to another visiual code we used my last course [https://snap.berkeley.edu/snap/snap.html](https://snap.berkeley.edu/snap/snap.html) I have incuded some of that code [here](./Code/Blasteroid Assessment.xml)
+
+### What is a variable?
+In programming information is stored in variables. The information is accessed by using the variable. Changing information means accessing the variable first and then storing the new value in the variable. Just as you store things in boxes in the real world, so you store things in variables (a kind of storage box) when working with applications. Each variable stores just one piece of information.
 
 ## Week 2
-Github/Repository Creation
+
+### Github/Repository Creation
 
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 Via Wikipedia: A minimum viable product has just enough core features to effectively deploy the product, and no more. Developers typically deploy the product to a subset of possible customers, such as early adopters who are thought to be more forgiving, more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. This strategy targets avoiding building products that customers do not want and seek to maximize information about the customer with the least money spent. The technique falls under the Lean Startup methodology as MVPs aim to test business hypotheses and validated learning is one of the five principles of the Lean Startup method.[12] It contrasts strongly with the traditional "stealth mode" method of product development where businesses make detailed business plans spanning a considerable time horizon. Steve Blank posited that the main principle of the Lean Startup approach rests in the validation of the hypotheses underlying the product by asking customers if they want the product or if the product meets their needs, and pivoting to another approach if the hypothesis turns out to be false.[11] This approach to validating business ideas cheaply before substantial investment saves costs and limits risk as businesses that upon experimentation turn out to be commercially unfeasible can easily be terminated. It is especially important as the main cause of startup failure is the lack of market need;[13] that is, many startups fail because their product isn't needed by many people, and so they cannot generate enough revenue to recoup the initial investment. Thus it can be said that utilizing an MVP would illuminate a prospective entrepreneur on the market demand for their products.
@@ -14,54 +20,74 @@ Via Wikipedia: A minimum viable product has just enough core features to effecti
 ## Week 3
 
 ### What is Python?
+Python is an interpreted, object-oriented l programming language. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
 
-Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+### Javascript vs Python
+Doing Python today the most difficult thing for me was switching mindset to a different syntax and programming code. In my last cousre we did Javascript. I found myself constantly trying to write Javascript, It took a very consicous effort in the end to use python commands and syntax. [Python Code](./Code)
 
- javascript vs python
+### What is OOP?
+Object-Oriented Programming. Instead of being a list of instructions, OOP programs act as models of the problems they solve.
 
- 
-## Week 4
-### What is Art? What is Programming?
+Taking this Object-Oriented approach, computer programs became much more adaptable to their environment. Instead of situations where a single large executable block of code is used, objects that communicate with each other by sending messages back and forth were used. One of the many advantages to this way of programming was that programs became easier to understand, because they could be thought of as written in more natural language. In this course we use Python, which is object-oriented as well as ideal for writing procedural code.
 
+### What is an IDE?
+Integrated Development Environment. An IDE contains tools such as a source code editor, a compiler and/or interpreter and a debugger that help a programmer write computer programs. 
+The source code editor is where you write your instructions. The compiler/interpreter then takes these instructions and converts them to binary language. The compiler/interpreter takes instructions written in C# or Python for example and converts them to binar
+
+## Week 4: What is Art? What is Programming?
+
+### What a graph is? Check out this linked in course on graph and data science fundamentals graph in business today
+
+### What is meant by the term acyclic in the context of graphs? The're often called Dags for short. 
+
+### What is the type of art that we did today? 
+Relational Aesthetics, art work which has the tendency to blur the distinction between audience and performer. 
+
+### What type of art did you do today? 
 Video-graph instructions
-Gather a group of people, each with a mobile phone. 
-Each person must start recording a video at the same time.
-Each person should frame one other person in their video. 
-The recording ends when one of the people leave one of the frames. 
-Watch the videos together.
-Each person should place their phone on the floor or table and press play, and then step back
-Option to record the videos playing together
 
-Reflective questions: 
-## How did you feel as a subject of a video? Did you notice your ego? How are we evolving with this device? How could we draw this activity? Did you feel more attachment to the phone than to your image?
+-Gather a group of people, each with a mobile phone. 
+-Each person must start recording a video at the same time.
+-Each person should frame one other person in their video. 
+-The recording ends when one of the people leave one of the frames. 
+-Watch the videos together.
+-Each person should place their phone on the floor or table and press play, and then step back
 
-*
-Confused about what a graph is? Check out this linked in course on graph and data science fundamentals graph in business today
+### How did you feel as a subject of a video? Did you notice your ego?
 
-What is meant by the term acyclic in the context of graphs? The're often called Dags for short. 
+### How are we evolving with this device? 
 
-What is the type of art that we did today? It has many names, sometimes people call it Relational Aesthetics and could be descried as art work which has the tendency to blur the distinction between audience and performer. What type of art did you do today? (Video-graph)
+### How could we draw this activity? 
 
-What type of tools can I try to generating images from text like you did? python text to image (pytti) is one of the strong examples. VQGAN and Clip, disco diffusion are others. I would avoid going for the simplest and better known (midjourney and DallE) at this point because they have followed the pattern of trying to own the copywrite for your work. You can use Google Colab for free to run notebooks which have these models available.
+### Did you feel more attachment to the phone than to your image?
 
-What is a bias mitigation technique that you mentioned? Please see the attached article A Survey on Bias and Fairness in Machine Learning. 
+### What is a bias mitigation technique? Please see the attached article A Survey on Bias and Fairness in Machine Learning. 
 
-Still feeling lost? Kei te pai. We are all in this together. We have 2 full weeks before any assignments are due. The first is Your Research Repository, which is due on Friday 2nd September. This is all about how you reflect on the work that your doing including these types of sessions which might ask you to be quite open.
+### What did you expect to be different? What would help to orient you? Can you see some benefit in the openness of this class format? 
 
-So make sure that you reflect on your feelings such a as "I feel lost after this class." write it up. What did you expect to be different? What would help to orient you? Can you see some benefit in the openness of this class format? What do you plan to do for your project. It's ok for it to change, you don't need to be consistent from week to week. Perhaps after a few weeks, you will feel differently about today's session. This type of experience is good. 
-*
+### What do you plan to do for your project?
+Some ideas I've had include:
+A website that searches for trees based on different filters, eg evergree/deciduous, fully grown height, ideal growing conditions, etc. I'd like to call the website "treesearch.com" to play on "research". 
+A website that acts as a central source where election candidates (local body government, school board, etc) can post profiles of themselves, that is a level playing field for each canditate to be able to share what they are about, removing the barrier of "who can put up the most signs?", but everyone has the same space and opportunity to share and compare their message and values. 
+An app for binary to decimal translations and vice versa.  
+
 ## Week 5 
+
 ### Agile rituals
 
 ### What did you learn out of the Marshmallow Challenge? 
 I don't think I learned anything concrete from this challenge. I assume it had something to do with the Agile method of Software Development, but given fellow students lack of following the challenge all the way as instructed, and no follow up or debrief from anyone in any capacity, The Marshmallow Challenge did not succeed in its intended purpose. 
 
+### What is pair programming?
+Pair programming is an Agile software development technique where two developers team up together on one computer to design, code and test user stories.
+
 ### What is the hardest problem you have solved so far?
-Getting the Python Koans to function in Visual Studio Code.
+Getting the Python [Koans](./Code) to function in Visual Studio Code.
 
 ## Week 6
 
-## Misc.
+### What is polymorphism?
+Polymorphism is the ability of a message to be displayed in more than one form. An example of polymorphism child who simultaneously is a daughter, a sister, a student and more.
 
 ### Did you remember to take regular breaks away from your screen during this week? How often? Did you stretch your body?
 I have not established a habit of regular breaks from the screen while I am studying. When I do step away from the screen, I move and stretch my body a bit. 
@@ -89,7 +115,7 @@ No. I have a hard time exploring without an clear end point or goal.
 Video game. Swimming. Practice, persistence, commitment.
 
 ### Do you consider yourself a developer yet?
-No. If anything at this point I think being a software developer is not for me. 
+No. If anything at this point I think software developement is not for me. 
 
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 Yes I value creativity as a value itself. One of the biggest things I have struggled to reconcile in this course is using creativity without having the ability to to execute it or having it in the context of coding/software development. 
@@ -97,17 +123,9 @@ Yes I value creativity as a value itself. One of the biggest things I have strug
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
 10 open tabs, 9 study related 1 not.
 
-### What is an IDE?
-Integrated Development Environment. An IDE contains tools such as a source code editor, a compiler and/or interpreter and a debugger that help a programmer write computer programs. 
-The source code editor is where you write your instructions. The compiler/interpreter then takes these instructions and converts them to binary language. The compiler/interpreter takes instructions written in C# or Python for example and converts them to binar
-
 ### So far, what was the hardest moment of this course for you?
 Doing and understanding the Python Koans form set up to actual solving the tests.
 
-### What is OOP?
-Object-Oriented Programming, or OOP. Instead of being a list of instructions, OOP programs act as models of the problems they solve.
-
-Taking this Object-Oriented approach, computer programs became much more adaptable to their environment. Instead of situations where a single large executable block of code is used, objects that communicate with each other by sending messages back and forth were used. One of the many advantages to this way of programming was that programs became easier to understand, because they could be thought of as written in more natural language. In this course we use Python, which is object-oriented as well as ideal for writing procedural code.
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
 
@@ -125,19 +143,11 @@ Polymorphism is the ability of a message to be displayed in more than one form. 
 
 I do not think in words, I don’t have an inner monologue. While I can be self critical, it is not a voice in my head like this. I believe there are areas I need to improve and areas where I am succeeding. I don’t look to believe or not believe an “inner voice” as a concept, as my own emotions do not necessarily reflect reality. 
 
-### What is pair programming?
-
-Pair programming is an Agile software development technique where two developers team up together on one computer to design, code and test user stories.
-
 ### What are you looking forward to learning about programming?
 The creative element of putting together a programme that I can think of and develop myself instead of parameters dictated by someone else. 
 
 ### What is conscious listening?
 Conscious listening is being very deliberate and present during communication between yourself and others whike considering other's feelings and needsa swell as your own.
-
-### What is a variable?
-
-IN programming information is stored in variables. The information is accessed by using the variable. Changing information means accessing the variable first and then storing the new value in the variable. Just as you store things in boxes in the real world, so you store things in variables (a kind of storage box) when working with applications. Each variable stores just one piece of information.
 
 ### What programming languages are you interested in learning? Why?
 Python because of its commonality and broad use and Javascript, because of previous experience with it and being the most difficult amongst the main languages of web development.
